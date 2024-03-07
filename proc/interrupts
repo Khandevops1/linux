@@ -1,0 +1,46 @@
+           CPU0       
+  0:         50   IO-APIC   2-edge      timer
+  1:          9   IO-APIC   1-edge      i8042
+  4:       2446   IO-APIC   4-edge      ttyS0
+  8:          1   IO-APIC   8-edge      rtc0
+  9:          0   IO-APIC   9-fasteoi   acpi
+ 11:          0   IO-APIC  11-fasteoi   uhci_hcd:usb1, virtio6
+ 12:         15   IO-APIC  12-edge      i8042
+ 14:          0   IO-APIC  14-edge      ata_piix
+ 15:          0   IO-APIC  15-edge      ata_piix
+ 24:          0  PCI-MSIX-0000:00:06.0   0-edge      virtio4-config
+ 25:      11708  PCI-MSIX-0000:00:06.0   1-edge      virtio4-req.0
+ 26:          0  PCI-MSIX-0000:00:07.0   0-edge      virtio5-config
+ 27:        102  PCI-MSIX-0000:00:07.0   1-edge      virtio5-req.0
+ 28:          0  PCI-MSIX-0000:00:05.0   0-edge      virtio3-config
+ 29:          0  PCI-MSIX-0000:00:05.0   1-edge      virtio3-control
+ 30:          0  PCI-MSIX-0000:00:05.0   2-edge      virtio3-event
+ 31:        256  PCI-MSIX-0000:00:05.0   3-edge      virtio3-request
+ 32:          0  PCI-MSIX-0000:00:03.0   0-edge      virtio1-config
+ 33:       2163  PCI-MSIX-0000:00:03.0   1-edge      virtio1-input.0
+ 34:       1715  PCI-MSIX-0000:00:03.0   2-edge      virtio1-output.0
+ 35:          0  PCI-MSIX-0000:00:04.0   0-edge      virtio2-config
+ 36:          4  PCI-MSIX-0000:00:04.0   1-edge      virtio2-input.0
+ 37:         13  PCI-MSIX-0000:00:04.0   2-edge      virtio2-output.0
+ 38:          0  PCI-MSIX-0000:00:02.0   0-edge      virtio0-config
+ 39:        969  PCI-MSIX-0000:00:02.0   1-edge      virtio0-control
+ 40:          0  PCI-MSIX-0000:00:02.0   2-edge      virtio0-cursor
+NMI:          0   Non-maskable interrupts
+LOC:      93666   Local timer interrupts
+SPU:          0   Spurious interrupts
+PMI:          0   Performance monitoring interrupts
+IWI:          0   IRQ work interrupts
+RTR:          0   APIC ICR read retries
+RES:          0   Rescheduling interrupts
+CAL:          0   Function call interrupts
+TLB:          0   TLB shootdowns
+TRM:          0   Thermal event interrupts
+THR:          0   Threshold APIC interrupts
+DFR:          0   Deferred Error APIC interrupts
+MCE:          0   Machine check exceptions
+MCP:          1   Machine check polls
+ERR:          0
+MIS:          0
+PIN:          0   Posted-interrupt notification event
+NPI:          0   Nested posted-interrupt event
+PIW:          0   Posted-interrupt wakeup event

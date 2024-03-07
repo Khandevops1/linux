@@ -1,0 +1,1 @@
+BOOT_IMAGE=(hd0,gpt1)/boot/vmlinuz-5.14.0-325.el9.x86_64 root=UUID=ca291b06-6bed-486b-87a8-4bf4b2eae860 ro console=ttyS0,115200n8 no_timer_check net.ifnames=0 crashkernel=1G-4G:192M,4G-64G:256M,64G-:512M

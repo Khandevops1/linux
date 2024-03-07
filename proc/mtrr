@@ -1,0 +1,1 @@
+reg00: base=0x080000000 ( 2048MB), size= 2048MB, count=1: uncachable
